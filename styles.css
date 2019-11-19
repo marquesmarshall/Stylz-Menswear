@@ -1,39 +1,47 @@
-/*this is my css file*/
 
 /*stylese of tags*/
-html, body{
+html, body {
   background-color:silver;
 }
-.navbar-brand{
+h2 {
+  font-size: 3.52em;
+}
+
+/*styles for navbar*/
+.navbar-brand {
 font-family: 'Paprika', cursive;
 }
-footer{
+
+/*styles for apparel page*/
+#suit {
+  max-width: 160px;
+}
+.media-body {
+overflow: auto;
+}
+.row {
+padding: 15px 20px 65px 30px;
+}
+#icon {
+  max-width: 30%;
+  max-height: 30%;
+}
+
+/*styles for footer*/
+footer {
   width: 100%;
   background-color: silver;
   padding: 5%;
   color: white;
   text-align: center;
 }
-.fab{
-  color: black;
-}
-.fab:hover{
-  color:gold;
-}
-h2{
-  font-size: 3.52em;
+
+/* styles for all tablets*/
+@media only screen and (max-width: 900px) {
 
 }
-#suit{
-  max-width: 160px;
-}
-.media-body{
-overflow: auto;
-}
-.row {
-padding: 15px 20px 65px 30px;
-}
-#icon{
-  max-width: 30%;
-  max-height: 30%;
+
+/* styles for phones*/
+@media only screen and (max-width: 450px) {
+
 }
