@@ -1,23 +1,9 @@
 /*this is my css file*/
 
 /*stylese of tags*/
-html{
-  background-color:sil6cf;
+html, body{
+  background-color:silver;
 }
-body{
-  background-color: silver;
-}
-/*
-.carousel-item{
-  height: 50%;
-  width: 50%;
-}
-
-.carousel-inner{
-  height: 100%;
-  width: 100%;
-}
-*/
 .navbar-brand{
 font-family: 'Paprika', cursive;
 }
@@ -40,4 +26,14 @@ h2{
 }
 #suit{
   max-width: 160px;
+}
+.media-body{
+overflow: auto;
+}
+.row {
+padding: 15px 20px 65px 30px;
+}
+#icon{
+  max-width: 30%;
+  max-height: 30%;
 }
