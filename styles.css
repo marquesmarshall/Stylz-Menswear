@@ -14,7 +14,7 @@ font-family: 'Paprika', cursive;
 
 /*styles for apparel page*/
 #suit {
-  max-width: 160px;
+  max-width: 150px;
 }
 .media-body {
 overflow: auto;
@@ -26,6 +26,8 @@ padding: 15px 20px 65px 30px;
   max-width: 30%;
   max-height: 30%;
 }
+/*styles for review page*/
+ 
 
 /*styles for footer*/
 footer {
