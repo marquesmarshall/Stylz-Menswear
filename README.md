@@ -1,3 +1,2 @@
 # Stylz Menswear
- I'm just trying to feed my family!!! :-(
-   what up y'all
+ 3 young men trying to make a living.
